@@ -5,8 +5,8 @@ categories:
 - category1
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
   dapibus id,mattis.
-thumbnail: image01.jpg
-author: Nina Petropoulos
+thumbnail: rose_photoexample01.jpg
+author: 
 layout: post
 ---
 
