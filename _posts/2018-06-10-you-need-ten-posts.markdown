@@ -9,4 +9,4 @@ author: Created
 layout: post
 ---
 
-Welcome to my website, here you can find some cool stuff I've done over the passed few years. You can also read a little bit about what I'm interested in below as well! Thank you for visiting my website, shoot me an e-mail if you want to work together! [Click here to go back to the homepage!](https://terranceleeg-designstld.siteleaf.net/)
+Welcome to my website, here you can find some cool stuff I've done over the passed few years. You can also read a little bit about what I'm interested in below as well! Thank you for visiting my website, shoot me an e-mail if you want to work together! [Click here to go back to the homepage!](https://www.terranceleeg-designs.com/)
