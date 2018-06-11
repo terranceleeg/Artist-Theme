@@ -3,8 +3,7 @@ title: Hello Everybody!
 date: 2016-01-31 09:11:00 Z
 categories:
 - category1
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
-  dapibus id,mattis.
+description: A little bit of information about myself.
 thumbnail: image01.jpg
 author: Created
 layout: post
