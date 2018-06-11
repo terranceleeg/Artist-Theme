@@ -5,7 +5,7 @@ categories:
 - category1
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
   dapibus id,mattis.
-thumbnail: food2.jpg
+thumbnail: galaxybackgroundsForDesktopWallpaper
 author: Nina Petropoulos
 layout: post
 ---
