@@ -26,7 +26,7 @@ layout: default
 {% for post in site.posts limit:2 offset:3 %}
   <div class="sm-6 textPreview vertCenter grow short">
     <div>
-      <a class='caps post-title' href='{{ site.url }}/about.html'>{{ post.title }}</a>
+      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
     </div>
   </div>
