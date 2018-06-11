@@ -17,8 +17,8 @@ exclude:
 email: terranceleeg@gmail.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going
   to make a material design theme next!
-baseurl: https://terranceleeg.github.io/terranceleeg-designs/
-url: https://terranceleeg.github.io/terranceleeg-designs/
+baseurl: https://terranceleeg.github.io/terranceleeg-designs.tld/.
+url: https://terranceleeg.github.io/terranceleeg-designs.tld/.
 twitter: 
 facebook: 
 google: 
