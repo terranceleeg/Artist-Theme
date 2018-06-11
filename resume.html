@@ -19,19 +19,133 @@ layout: default
 
 <div class='post-wrap flexbox-contain column'>
 
-  <!-- Tell people something unique about you... -->
-  <h1 class='textCenter'>About</h1>
-  <p class='big textCenter'><b class='accent'>Getting Groovy with Sass & Jade</b></p>
+</head>
+<body>
+  <div class="container">
+<div class="row">
+  <div class="col-md-8 col-md-offset-2">
+    <div class="row">
+      <div class="col-md-6">
+      <h1>{{data.basics.Name}}</h1>
 
-  <p>Nina Petropoulos is a self-taught web designer and developer who's trying to get better by making themes like this one. An English major by day and a music producer by night, Nina believes in artistic expression and curiosity. Use this page to talk about yourself and blog.</p>
+      <h2>{{data.basics.location.city}}</h2>
+      </div>
+      <div class="col-md-6">
+      <img class="media-object img-circle pull-right" data-src="holder.js/64x64" alt="64x64" src="{{bio.gravatar}}" style="width: 100px; height: 100px; margin-top: 20px;">
 
-  <!-- List you associated sites and social medias... -->
-  <div class='flexbox-contain this justify-around icon-container'>
-    <img class='social-media' src='{{ site.url }}/assets/img/icons/twitter.svg'>
-    <img class='social-media' src='{{ site.url }}/assets/img/icons/behance.svg'>
-    <img class='social-media' src='{{ site.url }}/assets/img/icons/facebook.svg'>
-    <img class='social-media' src='{{ site.url }}/assets/img/icons/Github.svg'>
-    <img class='social-media' src='{{ site.url }}/assets/img/icons/Google-Plus.svg'>
-    <img class='social-media' src='{{ site.url }}/assets/img/icons/youtube.svg'>
+      </div>
+      </div>
+    <hr style="color: #ccc; height: 4px;" />
+    <section class="row">
+      <header class="col-md-3">
+        <h3>About</h3>
+      </header>
+      <div class="col-md-9">
+      {{#basics.summary}}
+      <p>{{basics.summary}}</p>
+      {{/basics.summary}}
+      {{#basics.phone}}
+      <strong>Phone:</strong> {{bio.phone.personal}} <br />
+      {{/bio.phone.personal}}
+      {{#bio.email.personal}}
+      <strong>Email:</strong> {{bio.email.personal}}<br />
+      {{/bio.email.personal}}
+      {{#bio.profiles.twitter}}
+      <strong>Twitter:</strong> <a href="https://twitter.com/{{bio.profiles.twitter}}">@{{bio.profiles.twitter}}</a><br />
+      {{/bio.profiles.twitter}}
+      {{#bio.profiles.github}}
+      <strong>Github:</strong> <a href="https://github.com/{{bio.profiles.github}}">{{bio.profiles.github}}</a><br />
+      {{/bio.profiles.github}}
+      </div>
+    </section>
+    {{#work.length}}
+    <section class="row">
+      <header class="col-md-3">
+        <h3>Work Experience</h3>
+      </header>
+      <div class="col-md-9">
+        <div class="skills">
+          {{#work}}
+          <h3>{{company}}</h3>
+          <strong>{{position}}</strong>
+          <p>{{startDateYear}} - {{endDateYear}}</p>
+          <p>{{summary}}</p>
+          <ul>
+            {{#highlights}}
+            <li>{{.}}</li>
+            {{/highlights}}
+          </ul>
+          <hr />{{/work}}
+        </div>
+      </div>
+    </section>
+    {{/work.length}} 
+
+    {{#education.length}}
+    <section class="row">
+      <header class="col-md-3">
+        <h3>Education</h3>
+      </header>
+      <div class="col-md-9">
+        <div class="skills">
+          {{#education}}
+          <h3>{{institution}}</h3>
+          <h4>{{area}}, {{studyType}}</h4>
+          <p>{{startDateYear}} - {{endDateYear}}</p>
+          <p>{{summary}}</p>
+          <ul>
+            {{#highlights}}
+            <li>{{.}}</li>
+            {{/highlights}}
+          </ul>
+          <hr />
+          {{/education}}
+        </div>
+      </div>
+    </section>
+    {{/education.length}} 
+    {{#skills.length}}
+    <section class="row">
+      <header class="col-md-3">
+        <h3>Skills</h3>
+      </header>
+      <div class="col-md-9">
+        <div class="row-fluid skills">
+          {{#skills}}
+          <ul class="col-md-6">
+
+            <li>
+              <h4>{{name}}</h4>
+              <ul>
+                {{#keywords}}
+                <li>{{.}}</li>
+                {{/keywords}}
+              </ul>
+            </li>
+          </ul>
+          {{/skills}}
+        </div>
+      </div>
+    </section>
+    {{/skills.length}}
+    {{#references.length}}
+    <section class="row">
+      <header class="col-md-3">
+        <h3>References</h3>
+      </header>
+      <div class="col-md-9">
+        <div class="row-fluid skills">
+          {{#references}}
+
+          <p>{{reference}} -
+            <strong>{{name}}</strong>
+          </p>
+          {{/references}}
+        </div>
+      </div>
+    </section>
+    {{/references.length}}
+
   </div>
+</div>
 </div>
