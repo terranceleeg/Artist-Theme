@@ -15,7 +15,7 @@ layout: default
 {% for post in site.posts limit:2 offset:1 %}
   <div class="sm-6 imgBack link vertCenter textCenter grow short" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
     <div>
-      <a class='caps post-title' href='https://terranceleeg.github.io/stand-alone-portfolio/'>{{ post.title }}</a>
+      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
     </div>
   </div>
 {% endfor %}
