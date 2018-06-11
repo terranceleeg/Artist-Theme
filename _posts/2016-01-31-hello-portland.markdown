@@ -10,4 +10,4 @@ author:
 layout: post
 ---
 
-[Click here to visit my full portfolio!](https://terranceleeg.github.io/stand-alone-portfolio/)
+## [Click here to visit my full portfolio!](https://terranceleeg.github.io/stand-alone-portfolio/)
