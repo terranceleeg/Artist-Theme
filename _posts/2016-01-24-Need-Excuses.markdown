@@ -1,5 +1,5 @@
 ---
-title: "–Han Solo to Chewbacca about the Tydirium imperial shuttle they’re flying"
+title: "– Han Solo to Chewbacca about the Tydirium imperial shuttle they’re flying"
 date: 2016-01-24 09:11:00 Z
 categories:
 - category1

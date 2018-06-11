@@ -1,5 +1,5 @@
 ---
-title: "–Paul Rand"
+title: "– Paul Rand"
 date: 2016-01-29 09:11:00 Z
 categories:
 - category1
