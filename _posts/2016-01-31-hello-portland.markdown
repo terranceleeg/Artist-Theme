@@ -5,7 +5,7 @@ categories:
 - category1
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
   dapibus id,mattis.
-thumbnail: swingphotoexample02.jpg
+thumbnail: giraffephotoexample03.jpg
 author: 
 layout: post
 ---
