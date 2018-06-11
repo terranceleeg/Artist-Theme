@@ -41,17 +41,16 @@ layout: default
         <h3>About</h3>
       </header>
       <div class="col-md-9">
-      {{#basics.summary}}
-      <p>{{basics.summary}}</p>
-      {{/basics.summary}}
-      {{#basics.phone}}
-      <strong>Phone:</strong> {{bio.phone.personal}} <br />
-      {{/bio.phone.personal}}
-      {{#bio.email.personal}}
-      <strong>Email:</strong> {{bio.email.personal}}<br />
-      {{/bio.email.personal}}
-      {{#bio.profiles.twitter}}
-      <strong>Twitter:</strong> <a href="https://twitter.com/{{bio.profiles.twitter}}">@{{bio.profiles.twitter}}</a><br />
+      {{#data.basics.summary}}
+      <p>{{data.basics.summary}}</p>
+      {{/data.basics.summary}}
+      {{#data.basics.phone}}
+      <strong>Phone:</strong> {{data.basics.phone}} <br />
+      {{/data.basics.phone}}
+      {{#data.basics.email}}
+      <strong>Email:</strong> {{data.basics.email}}<br />
+      {{/data.basics.email}}
+      <strong>Twitter:</strong> <a href="{{bio.profiles.twitter}}">@{{bio.profiles.twitter}}</a><br />
       {{/bio.profiles.twitter}}
       {{#bio.profiles.github}}
       <strong>Github:</strong> <a href="https://github.com/{{bio.profiles.github}}">{{bio.profiles.github}}</a><br />
