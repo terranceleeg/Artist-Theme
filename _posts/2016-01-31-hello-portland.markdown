@@ -10,4 +10,4 @@ author: Nina Petropoulos
 layout: post
 ---
 
-[Click here to visit my full portfolio!][https://terranceleeg-designstld.siteleaf.net/] 
+[Click here to visit my full portfolio!](https://terranceleeg-designstld.siteleaf.net)
