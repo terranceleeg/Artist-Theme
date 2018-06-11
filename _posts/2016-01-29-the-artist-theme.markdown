@@ -4,7 +4,7 @@ date: 2016-01-29 09:11:00 Z
 categories:
 - category1
 description: Cool Quotes
-thumbnail: city2.jpg
+thumbnail: swingphotoexample02.jpg
 author: Nina Petropoulos
 layout: post
 ---
