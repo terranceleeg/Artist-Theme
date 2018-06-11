@@ -6,7 +6,7 @@ categories:
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
   dapibus id,mattis.
 thumbnail: person1.jpeg
-author: Nina Petropoulos
+author: Terrance Gallaher
 layout: post
 ---
 
