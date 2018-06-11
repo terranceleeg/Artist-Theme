@@ -5,7 +5,7 @@ categories:
 - category1
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
   dapibus id,mattis.
-thumbnail: rose_photoexample01.jpg
+thumbnail: swingphotoexample02.jpg
 author: 
 layout: post
 ---
