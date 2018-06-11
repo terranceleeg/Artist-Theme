@@ -1,12 +1,30 @@
 ---
-title: About Me
+title: My Interests
 date: 2016-01-30 09:11:00 Z
 categories:
 - category2
 description: A little bit about myself.
 thumbnail: building1.jpg
-author: Nina Petropoulos
+author: 
 layout: post
 ---
 
-My name is Terrance Gallaher Jr. I come from a small town outside of Spokane, WA known as Wellpinit. I study Visual Communication Design at Eastern Washington University and I have a minor in art along with a certificate in User Experience Design. I enjoy meeting new people and I am always ready to conquer any challenges presented to me. I'm also a quick study and learning new things comes easy to me.
+# This page is here to tell you what my interests are in life, to let you get to know what I like. 
+
+## Design
+### Coding.
+### Making posters.
+### Making graphics for things like t-shirts and logos
+### Creating prototype applications for mobile applications
+## Art
+### Graphite drawing
+### Charcoal Drawing
+### Acryllics, everybody loves acryllics.
+### Printmaking
+## Outdoors
+### Hunting
+### Fishing
+### Trail running
+### Hiking
+# To learn more about what I like [click here!](https://terranceleeg-designstld.siteleaf.net//about.html)
+
