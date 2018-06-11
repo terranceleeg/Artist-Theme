@@ -7,7 +7,7 @@ layout: default
 <div class="xs-12 imgBack link textCenter vertCenter grow tall" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
   <div>
     <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-    <p class='meta'>{{ post.date | date_to_long_string }} / {{ post.author }}</p>
+    <p class='meta'>{{ post.author }} / {{ post.date | date_to_long_string }} </p>
   </div>
 </div>
 {% endfor %}
