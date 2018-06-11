@@ -1,12 +1,12 @@
 ---
+title: 'Basic Use: A Guide'
+date: 2016-01-30 09:11:03 Z
+categories:
+- category2
 layout: post
-title:  "Basic Use: A Guide"
-date:   2016-01-30 09:11:03
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
+description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
+  dapibus id,mattis.
 thumbnail: building1.jpg
-categories: category2
-
-# Information for the author block
 author: Nina Petropoulos
 ---
 

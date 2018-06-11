@@ -1,23 +1,28 @@
-# Default, Defaults
-markdown: redcarpet
-highlighter: pygments # or rouge or null
-exclude: ["node_modules", "gulpfile.js", "package.json"]
-
-# Jekyll Defaults
+---
 title: terranceleeg-designs.tld
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: redcarpet
+highlighter: pygments
+exclude:
+- node_modules
+- gulpfile.js
+- package.json
 email: terranceleeg@gmail.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "https://terranceleeg.github.io/terranceleeg-designs/" # the subpath of your site, e.g. /blog
-
-# Where can people find your site?
-url: "https://terranceleeg.github.io/terranceleeg-designs/"
-# When developing, set this ^ equal to whatever localhost you're using
-
-# Socail Media links
-# Use these to link users to your organization's social media sites
-twitter:
-facebook:
-google:
-
+description: A small and simple site I made to test out Jekyll. Watch out! I'm going
+  to make a material design theme next!
+baseurl: https://terranceleeg.github.io/terranceleeg-designs/
+url: https://terranceleeg.github.io/terranceleeg-designs/
+twitter: 
+facebook: 
+google: 
 author: Nina Petropoulos
-authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
+authorBio: A English major by day, a musician by night, and a web developer because
+  of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland
+  theme, the second theme I've made with Jekyll.
