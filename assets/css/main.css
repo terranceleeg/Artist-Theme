@@ -359,10 +359,11 @@ h1 {
   font-size: 36px; }
 
 h2, .post-title {
-  font-size: 24px;
+  font-size: 16px;
   font-weight: 700; }
 
 h3 {
+  color: #6495ed;
   font-size: 21px; }
 
 h4 {
@@ -385,7 +386,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: black; }
+  color: #FF8F00; }
   a:hover {
     text-decoration: underline; }
 
@@ -416,7 +417,7 @@ a {
   font-weight: 300; }
 
 .meta {
-  color: #FF8F00; }
+  color: #6495ed; }
 
 .accent {
   color: #9FA8DA; }
@@ -485,13 +486,13 @@ body {
     display: block;
     padding: 5px 0;
     font-size: 16px;
-    color: #FF8F00;
+    color: #6495ed;
     font-weight: 500; }
   #menu.slideout-menu .flexbox .details {
     border-top: solid 2px #757575;
     padding-top: 10px; }
     #menu.slideout-menu .flexbox .details b, #menu.slideout-menu .flexbox .details a {
-      color: #FF8F00; }
+      color: #6495ed; }
     #menu.slideout-menu .flexbox .details p {
       margin-top: 0; }
 
@@ -519,7 +520,7 @@ main .toggle-button {
     position: absolute;
     height: 3px;
     width: 100%;
-    background: #FF8F00;
+    background: #6495ed;
     border-radius: 9px;
     opacity: 1;
     left: 0;
@@ -576,7 +577,7 @@ footer {
     padding: 40px 0 40px 40px;
     max-width: 300px; }
     footer div a {
-      color: #FF8F00; }
+      color: #6495ed; }
 
 .post-wrap.category {
   display: -webkit-flex;
@@ -801,6 +802,7 @@ button.download {
   padding: 10px 10px 50px 10px;
   margin: auto; }
   .post-wrap h1 {
+    color: #6495ed;
     margin-bottom: 0; }
   .post-wrap .meta {
     margin-bottom: 30px;
@@ -813,7 +815,7 @@ button.download {
   .post-wrap ul {
     margin-left: 28px; }
   .post-wrap a {
-    color: #9FA8DA;
+    color: #FF8F00;
     font-weight: 500; }
     .post-wrap a.post-title {
       color: #212121; }
