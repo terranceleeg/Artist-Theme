@@ -1,4 +1,4 @@
-#Artist Theme: A Free Theme for Jekyll Sites
+#Dynamic theming using Jekyll
 
 ##Dependencies
 1. Jekyll
