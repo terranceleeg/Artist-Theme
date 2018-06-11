@@ -29,5 +29,5 @@ layout: post
 * Trail running
 * Hiking
 
-## To learn more about what I like [click here!](https://terranceleeg-designstld.siteleaf.net//about.html)
+### To learn more about what I like [click here!](https://terranceleeg-designstld.siteleaf.net//about.html)
 
