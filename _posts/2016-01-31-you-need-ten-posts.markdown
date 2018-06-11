@@ -5,29 +5,9 @@ categories:
 - category1
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
   dapibus id,mattis.
-thumbnail: image03.jpg
-author: Nina Petropoulos
+thumbnail: image01.jpg
+author: Created
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut [enim ad minim][link1] veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. [Ut enim ad minim veniam][link2], quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, [consectetur adipisicing elit][link3], sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-
-###Ut Labore et Dolore
-
-Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet:
-
-1. consectetur adipisicing elit
-2. sed do eiusmod tempor incididunt
-3. ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[link1]: example.net
-[link2]: example.com
-[link3]: example.org
+My name is Terrance Gallaher Jr. I come from a small town outside of Spokane, WA known as Wellpinit. I study Visual Communication Design at Eastern Washington University and I have a minor in art along with a certificate in User Experience Design. I enjoy meeting new people and I am always ready to conquer any challenges presented to me. I'm also a quick study and learning new things comes easy to me. For more information about what my work experience has been and some awards I've won, please click here!
