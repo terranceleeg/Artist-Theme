@@ -1,5 +1,5 @@
 ---
-title: terranceleeg-designs.com
+title: terranceleeg-designs
 timezone: UTC
 collections:
   posts:
@@ -8,21 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: true
-markdown: redcarpet
-highlighter: pygments
-exclude:
-- node_modules
-- gulpfile.js
-- package.json
-email: terranceleeg@gmail.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going
-  to make a material design theme next!
-baseurl: https://www.terranceleeg-designs.com/
-url: https://www.terranceleeg-designs.com/
-twitter: 
-facebook: 
-google: 
-author: Nina Petropoulos
-authorBio: A English major by day, a musician by night, and a web developer because
-  of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland
-  theme, the second theme I've made with Jekyll.
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
