@@ -10,4 +10,4 @@ author: Nina Petropoulos
 layout: post
 ---
 
-[Click here](https://terranceleeg-designstld.siteleaf.net//resume.html) to see/download my resume!
+[Click here](https://www.terranceleeg-designs.com//resume.html) to see/download my resume!

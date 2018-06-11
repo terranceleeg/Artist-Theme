@@ -5,7 +5,7 @@ categories:
 - category1
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
   dapibus id,mattis.
-thumbnail: building1.jpg
+thumbnail: rosephotoexample01.jpg
 author: Terrance Gallaher
 layout: post
 ---
