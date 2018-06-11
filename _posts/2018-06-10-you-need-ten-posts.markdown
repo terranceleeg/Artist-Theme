@@ -1,6 +1,6 @@
 ---
-title: Hello Everybody!
-date: 2016-01-31 09:11:00 Z
+title: Welcome to terranceleeg-designs!
+date: 2018-06-10 09:11:00 Z
 categories:
 - category1
 description: A little bit of information about myself.
