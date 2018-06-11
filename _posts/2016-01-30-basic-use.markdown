@@ -1,13 +1,13 @@
 ---
-title: 'Basic Use: A Guide'
-date: 2016-01-30 09:11:03 Z
+title: About Me
+date: 2016-01-30 09:11:00 Z
 categories:
 - category2
-layout: post
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
   dapibus id,mattis.
 thumbnail: building1.jpg
 author: Nina Petropoulos
+layout: post
 ---
 
 If this is your first time using Jekyll, don't be scared! Installing and setting up this particular theme is very, very simple. I'll walk you through it.
