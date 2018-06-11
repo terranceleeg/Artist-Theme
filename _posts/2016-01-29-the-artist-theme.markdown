@@ -3,8 +3,7 @@ title: Paul Rand
 date: 2016-01-29 09:11:00 Z
 categories:
 - category1
-description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel,
-  dapibus id,mattis.
+description: Cool Quotes
 thumbnail: city2.jpg
 author: Nina Petropoulos
 layout: post
